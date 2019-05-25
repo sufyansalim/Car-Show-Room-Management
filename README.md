@@ -1,5 +1,5 @@
 ## Car Show Room Management System
 
-Simple __GUI__ and __CRUD__ functions using file handling and arraylist.
+Simple __GUI__ and __CRUD__ functions using file handling.
 
 Code Written in __JAVA__
